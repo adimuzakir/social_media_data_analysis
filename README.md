@@ -1,4 +1,4 @@
-# Analisis Data Media Sosial untuk Evaluasi Interaksi dan Sentimen
+# Analisis Data Media Sosial 
 ## Deskripsi Proyek
 Proyek ini bertujuan untuk menganalisis data media sosial untuk mengevaluasi pola interaksi, korelasi antara panjang teks postingan dengan jumlah interaksi, analisis sentimen, dan distribusi aktivitas berdasarkan platform. Data yang digunakan dalam proyek ini adalah data media sosial yang mencakup informasi tentang postingan, interaksi, platform, serta informasi pengguna. Dengan menggunakan teknik analisis data dan visualisasi, proyek ini membantu mengidentifikasi tren dalam aktivitas media sosial, pola interaksi, serta sentimen yang terkait dengan konten.
 ## Tujuan Proyek
